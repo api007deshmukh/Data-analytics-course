@@ -1,5 +1,10 @@
 # Data-analytics-course
 
+The course Data analysis with Python consisted of conducting the whole data analysis process from scratch:
+Week 1: Importing datasets and accessing data bases
+Week 2: Cleaning data by removing missing data or replacing it and learning standardization
+Week 3: Conducting Descriptive statistics and correlation/ANOVA
+Week 4: Conductng inferential data statistics such as linear and multiple regression
 
 Week 5- Project scenario
 In this assignment, you are a Data Analyst working at a Real Estate Investment Trust. The Trust would like to start investing in Residential real estate. You are tasked with determining the market price of a house given a set of features. You will analyze and predict housing prices using attributes or features such as square footage, number of bedrooms, number of floors, and so on. A template notebook is provided in the lab; your job is to complete the ten questions. Some hints to the questions are given in the template notebook.
