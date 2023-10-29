@@ -1,1 +1,3 @@
-# Data-analytics-course
+The course on Python for Data Science, AI & Development consisted of a foundational introduction to Python and how the language can be used to parse HTML web pages, extract and load data from these pages. I was also introduced to Application Programming Interface (API) and its function in accessing data from various sources.
+Enclosed in this branch are the hands-on lab modules I completed for the Week 4 and Week 5. Week 1, 2 and 3 consisted of getting familiar with the Python programming basics such as Lists, dictionaries, loops, etc.
+In Week 5.2 module on working with API examples, I have encountered an error at the end of the module: "JSONDecodeError: Expecting value: line 1 column 1 (char 0)". An issue has been created for the same. 
