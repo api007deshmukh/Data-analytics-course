@@ -1,14 +1,11 @@
-# Data-analytics-course
+# Choropleth map of immigration in Canada
 
-The IBM Professional Data Analyst course consists of 9 courses. It is a Coursera online course which equips learners with the basics of Data Analytics using MS Excel, IBM Dashboard and Python programming. The exercises and projects conducted have been uploaded in this repository. The branches in the respository are the sub-courses I took part in as part of the course, which are as follows:
-1- Introduction to Data Analytics
-2- Excel Basics for Data Analysis
-3- Data Visualization and Dashboard with Excel and Cognos
-4- Python for Data Science, AI and Development
-5- Python project for Data Science
-6- Databases and SQL Data Scince with Python
-7- Data Analysis with Python
-9- Data Visualiztion with Python
-10- IBM Data Analyst Capstone Project
+As part of the The IBM Professional Data Analyst course, I have done this proect on presenting a visual representation depicting immigration from various countries too Canada. The data used was from UN's website (https://www.un.org/development/desa/pd/data/international-migration-flows) for immigration data between 1980-2013. 
+
+Numpy, Pandas and Folium libraries were used in thtis project. A choropleth map using a GeoJSON file of the world map was plotted with the data.
+According to the attached Choropleth map final image, the countried in darket colours (red) consisted of highest immigration rates to Canada - China, India and the Phillipines.
+
+The project demonstrates my ability to source, clean, manipulate and visualize geospatial data.
+
 
 
